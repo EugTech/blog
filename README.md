@@ -1,4 +1,4 @@
-# blog-ideas
+# blog
 
 ## Welcome to the EugeneTech Blog repo!  We are glad you are here! :tada:
 
